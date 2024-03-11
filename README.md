@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Vitajte v našom obchode s nalepkami!</h1>
+        <h1>Vitaj v HuligensShop</h1>
         <nav>
             <ul>
                 <li><a href="#">Domov</a></li>
@@ -48,7 +48,7 @@ body {
 /* Štýly pre header */
 header {
     background-color: #333;
-    color: #fff;
+    color: #4EFF01;
     padding: 20px;
 }
 
